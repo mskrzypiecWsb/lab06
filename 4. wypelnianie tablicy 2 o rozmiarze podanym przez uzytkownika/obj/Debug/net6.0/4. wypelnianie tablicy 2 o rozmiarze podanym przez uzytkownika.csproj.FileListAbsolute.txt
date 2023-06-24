@@ -1,0 +1,15 @@
+D:\VS\Projects\lab04\4. wypelnianie tablicy 2 o rozmiarze podanym przez uzytkownika\bin\Debug\net6.0\4. wypelnianie tablicy 2 o rozmiarze podanym przez uzytkownika.exe
+D:\VS\Projects\lab04\4. wypelnianie tablicy 2 o rozmiarze podanym przez uzytkownika\bin\Debug\net6.0\4. wypelnianie tablicy 2 o rozmiarze podanym przez uzytkownika.deps.json
+D:\VS\Projects\lab04\4. wypelnianie tablicy 2 o rozmiarze podanym przez uzytkownika\bin\Debug\net6.0\4. wypelnianie tablicy 2 o rozmiarze podanym przez uzytkownika.runtimeconfig.json
+D:\VS\Projects\lab04\4. wypelnianie tablicy 2 o rozmiarze podanym przez uzytkownika\bin\Debug\net6.0\4. wypelnianie tablicy 2 o rozmiarze podanym przez uzytkownika.dll
+D:\VS\Projects\lab04\4. wypelnianie tablicy 2 o rozmiarze podanym przez uzytkownika\bin\Debug\net6.0\4. wypelnianie tablicy 2 o rozmiarze podanym przez uzytkownika.pdb
+D:\VS\Projects\lab04\4. wypelnianie tablicy 2 o rozmiarze podanym przez uzytkownika\obj\Debug\net6.0\4. wypelnianie tablicy 2 o rozmiarze podanym przez uzytkownika.csproj.AssemblyReference.cache
+D:\VS\Projects\lab04\4. wypelnianie tablicy 2 o rozmiarze podanym przez uzytkownika\obj\Debug\net6.0\4. wypelnianie tablicy 2 o rozmiarze podanym przez uzytkownika.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\Projects\lab04\4. wypelnianie tablicy 2 o rozmiarze podanym przez uzytkownika\obj\Debug\net6.0\4. wypelnianie tablicy 2 o rozmiarze podanym przez uzytkownika.AssemblyInfoInputs.cache
+D:\VS\Projects\lab04\4. wypelnianie tablicy 2 o rozmiarze podanym przez uzytkownika\obj\Debug\net6.0\4. wypelnianie tablicy 2 o rozmiarze podanym przez uzytkownika.AssemblyInfo.cs
+D:\VS\Projects\lab04\4. wypelnianie tablicy 2 o rozmiarze podanym przez uzytkownika\obj\Debug\net6.0\4. wypelnianie tablicy 2 o rozmiarze podanym przez uzytkownika.csproj.CoreCompileInputs.cache
+D:\VS\Projects\lab04\4. wypelnianie tablicy 2 o rozmiarze podanym przez uzytkownika\obj\Debug\net6.0\4. wypelnianie tablicy 2 o rozmiarze podanym przez uzytkownika.dll
+D:\VS\Projects\lab04\4. wypelnianie tablicy 2 o rozmiarze podanym przez uzytkownika\obj\Debug\net6.0\refint\4. wypelnianie tablicy 2 o rozmiarze podanym przez uzytkownika.dll
+D:\VS\Projects\lab04\4. wypelnianie tablicy 2 o rozmiarze podanym przez uzytkownika\obj\Debug\net6.0\4. wypelnianie tablicy 2 o rozmiarze podanym przez uzytkownika.pdb
+D:\VS\Projects\lab04\4. wypelnianie tablicy 2 o rozmiarze podanym przez uzytkownika\obj\Debug\net6.0\4. wypelnianie tablicy 2 o rozmiarze podanym przez uzytkownika.genruntimeconfig.cache
+D:\VS\Projects\lab04\4. wypelnianie tablicy 2 o rozmiarze podanym przez uzytkownika\obj\Debug\net6.0\ref\4. wypelnianie tablicy 2 o rozmiarze podanym przez uzytkownika.dll

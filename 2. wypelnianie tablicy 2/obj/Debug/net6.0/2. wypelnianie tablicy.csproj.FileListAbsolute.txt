@@ -1,0 +1,15 @@
+D:\VS\Projects\lab04\2. wypelnianie tablicy\bin\Debug\net6.0\2. wypelnianie tablicy.exe
+D:\VS\Projects\lab04\2. wypelnianie tablicy\bin\Debug\net6.0\2. wypelnianie tablicy.deps.json
+D:\VS\Projects\lab04\2. wypelnianie tablicy\bin\Debug\net6.0\2. wypelnianie tablicy.runtimeconfig.json
+D:\VS\Projects\lab04\2. wypelnianie tablicy\bin\Debug\net6.0\2. wypelnianie tablicy.dll
+D:\VS\Projects\lab04\2. wypelnianie tablicy\bin\Debug\net6.0\2. wypelnianie tablicy.pdb
+D:\VS\Projects\lab04\2. wypelnianie tablicy\obj\Debug\net6.0\2. wypelnianie tablicy.csproj.AssemblyReference.cache
+D:\VS\Projects\lab04\2. wypelnianie tablicy\obj\Debug\net6.0\2. wypelnianie tablicy.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\Projects\lab04\2. wypelnianie tablicy\obj\Debug\net6.0\2. wypelnianie tablicy.AssemblyInfoInputs.cache
+D:\VS\Projects\lab04\2. wypelnianie tablicy\obj\Debug\net6.0\2. wypelnianie tablicy.AssemblyInfo.cs
+D:\VS\Projects\lab04\2. wypelnianie tablicy\obj\Debug\net6.0\2. wypelnianie tablicy.csproj.CoreCompileInputs.cache
+D:\VS\Projects\lab04\2. wypelnianie tablicy\obj\Debug\net6.0\2. wypelnianie tablicy.dll
+D:\VS\Projects\lab04\2. wypelnianie tablicy\obj\Debug\net6.0\refint\2. wypelnianie tablicy.dll
+D:\VS\Projects\lab04\2. wypelnianie tablicy\obj\Debug\net6.0\2. wypelnianie tablicy.pdb
+D:\VS\Projects\lab04\2. wypelnianie tablicy\obj\Debug\net6.0\2. wypelnianie tablicy.genruntimeconfig.cache
+D:\VS\Projects\lab04\2. wypelnianie tablicy\obj\Debug\net6.0\ref\2. wypelnianie tablicy.dll

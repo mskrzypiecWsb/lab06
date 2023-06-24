@@ -1,0 +1,15 @@
+D:\VS\Projects\lab04\1. wypelnianie tablicy 10x10\bin\Debug\net6.0\1. wypelnianie tablicy 10x10.exe
+D:\VS\Projects\lab04\1. wypelnianie tablicy 10x10\bin\Debug\net6.0\1. wypelnianie tablicy 10x10.deps.json
+D:\VS\Projects\lab04\1. wypelnianie tablicy 10x10\bin\Debug\net6.0\1. wypelnianie tablicy 10x10.runtimeconfig.json
+D:\VS\Projects\lab04\1. wypelnianie tablicy 10x10\bin\Debug\net6.0\1. wypelnianie tablicy 10x10.dll
+D:\VS\Projects\lab04\1. wypelnianie tablicy 10x10\bin\Debug\net6.0\1. wypelnianie tablicy 10x10.pdb
+D:\VS\Projects\lab04\1. wypelnianie tablicy 10x10\obj\Debug\net6.0\1. wypelnianie tablicy 10x10.csproj.AssemblyReference.cache
+D:\VS\Projects\lab04\1. wypelnianie tablicy 10x10\obj\Debug\net6.0\1. wypelnianie tablicy 10x10.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\Projects\lab04\1. wypelnianie tablicy 10x10\obj\Debug\net6.0\1. wypelnianie tablicy 10x10.AssemblyInfoInputs.cache
+D:\VS\Projects\lab04\1. wypelnianie tablicy 10x10\obj\Debug\net6.0\1. wypelnianie tablicy 10x10.AssemblyInfo.cs
+D:\VS\Projects\lab04\1. wypelnianie tablicy 10x10\obj\Debug\net6.0\1. wypelnianie tablicy 10x10.csproj.CoreCompileInputs.cache
+D:\VS\Projects\lab04\1. wypelnianie tablicy 10x10\obj\Debug\net6.0\1. wypelnianie tablicy 10x10.dll
+D:\VS\Projects\lab04\1. wypelnianie tablicy 10x10\obj\Debug\net6.0\refint\1. wypelnianie tablicy 10x10.dll
+D:\VS\Projects\lab04\1. wypelnianie tablicy 10x10\obj\Debug\net6.0\1. wypelnianie tablicy 10x10.pdb
+D:\VS\Projects\lab04\1. wypelnianie tablicy 10x10\obj\Debug\net6.0\1. wypelnianie tablicy 10x10.genruntimeconfig.cache
+D:\VS\Projects\lab04\1. wypelnianie tablicy 10x10\obj\Debug\net6.0\ref\1. wypelnianie tablicy 10x10.dll
